@@ -1,0 +1,2 @@
+# nestJs-CRUD-APP
+A simple NESTJS CRUD APP for USER(ninjas) MANAGEMENT
